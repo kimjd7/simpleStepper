@@ -10,7 +10,7 @@
   ],
   "background_color": "#FDFDFD",
   //"id":"/",
-  "start_url": "/simpleStepper/",
+  "start_url": "https://kimjd7.github.io/simpleStepper/",
   "display": "standalone",
   "orientation": "portrait"
 }
