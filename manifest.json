@@ -9,6 +9,7 @@
     }
   ],
   "background_color": "#FDFDFD",
+  "id":"/",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait"
