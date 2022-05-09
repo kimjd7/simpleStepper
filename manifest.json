@@ -3,13 +3,13 @@
   "name": "PWA Example Basic",
   "icons": [
     {
-      "src": "img/icon.png",
+      "src": "https://kimjd7.github.io/simpleStepper/img/icon.png",
       "type": "image/png",
       "sizes": "192x192"
     }
   ],
   "background_color": "#FDFDFD",
-  "id":"/",
+  //"id":"/",
   "start_url": "/",
   "display": "standalone",
   "orientation": "portrait"
