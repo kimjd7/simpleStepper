@@ -1,0 +1,15 @@
+{
+  "short_name": "PWA Sample",
+  "name": "PWA Example Basic",
+  "icons": [
+    {
+      "src": "img/icon.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "background_color": "#FDFDFD",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait"
+}
