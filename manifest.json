@@ -10,7 +10,7 @@
   ],
   "background_color": "#FDFDFD",
   //"id":"/",
-  "start_url": "/",
+  "start_url": "/simpleStepper/",
   "display": "standalone",
   "orientation": "portrait"
 }
